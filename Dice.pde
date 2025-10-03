@@ -22,7 +22,7 @@ void draw()
     }
   }
 
-  // 
+  // for the total bar
   fill(total,total+100, total+60);
   rect(0, height - 30, width, 40, 10); 
   fill(0);
